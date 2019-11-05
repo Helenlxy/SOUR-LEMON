@@ -10,7 +10,7 @@
     "handlebars": "^4.1.2",
     "hbs": "^4.0.4",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.3",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "request": "^2.88.0",
     "rgbaster": "^2.1.1",
